@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Luxury Villa in Beverly Hills",
+      "content": "A beautiful 5-bedroom villa with a pool and garden.",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 2,
+      "title": "Modern Apartment in Downtown",
+      "content": "A 2-bedroom apartment with city views and modern amenities.",
+      "date": "2024-02-15"
+    },
+    {
+      "id": 3,
+      "title": "Beach House in Malibu",
+      "content": "A stunning beachfront property with private access to the beach.",
+      "date": "2024-03-05"
+    },
+    {
+      "id": 4,
+      "title": "Cozy Cottage in the Countryside",
+      "content": "A charming 3-bedroom cottage surrounded by nature.",
+      "date": "2024-04-20"
+    },
+    {
+      "id": 5,
+      "title": "Penthouse in Manhattan",
+      "content": "A luxurious penthouse with panoramic views of the city.",
+      "date": "2024-05-11"
+    },
+    {
+      "id": 6,
+      "title": "Suburban Family Home",
+      "content": "A spacious 4-bedroom home perfect for families, located in a quiet neighborhood.",
+      "date": "2024-06-30"
+    },
+    {
+      "id": 7,
+      "title": "Studio Apartment in San Francisco",
+      "content": "A modern studio in the heart of the city, close to tech hubs.",
+      "date": "2024-07-22"
+    },
+    {
+      "id": 8,
+      "title": "Lakefront Property",
+      "content": "A beautiful property with a lake view and private dock.",
+      "date": "2024-08-05"
+    },
+    {
+      "id": 9,
+      "title": "Mountain Cabin",
+      "content": "A cozy cabin with stunning mountain views, perfect for a getaway.",
+      "date": "2024-09-17"
+    },
+    {
+      "id": 10,
+      "title": "Historic Townhouse",
+      "content": "A beautifully restored townhouse with historical charm.",
+      "date": "2024-10-02"
+    },
+    {
+      "id": 11,
+      "title": "Eco-Friendly Home",
+      "content": "A sustainable, eco-friendly property with solar panels and a green roof.",
+      "date": "2024-10-15"
+    },
+    {
+      "id": 12,
+      "title": "City Center Loft",
+      "content": "A spacious loft with an open floor plan and industrial decor.",
+      "date": "2024-11-10"
+    },
+    {
+      "id": 13,
+      "title": "Farmhouse with Land",
+      "content": "A farmhouse with 10 acres of land, perfect for agricultural use.",
+      "date": "2024-12-01"
+    },
+    {
+      "id": 14,
+      "title": "Luxury Condo in Miami",
+      "content": "A high-end condo with ocean views and top-notch amenities.",
+      "date": "2024-12-12"
+    },
+    {
+      "id": 15,
+      "title": "Ranch-Style Home",
+      "content": "A spacious ranch-style property with outdoor space and stables.",
+      "date": "2024-12-20"
+    }
+  ]
+  
